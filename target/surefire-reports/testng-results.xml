@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-16T09:22:37Z" name="Surefire suite" finished-at="2023-03-16T09:22:43Z" duration-ms="6820">
+    <groups>
+    </groups>
+    <test started-at="2023-03-16T09:22:37Z" name="Surefire test" finished-at="2023-03-16T09:22:43Z" duration-ms="6820">
+      <class name="com.qa1.api.gorest.tests.CreateUserTest">
+        <test-method signature="createUserTest()[pri:0, instance:com.qa1.api.gorest.tests.CreateUserTest@7d9d0818]" started-at="2023-03-16T09:22:41Z" name="createUserTest" finished-at="2023-03-16T09:22:41Z" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="createUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa1.api.gorest.tests.CreateUserTest@7d9d0818]" started-at="2023-03-16T09:22:41Z" name="createUserTest" data-provider="getUserData" finished-at="2023-03-16T09:22:42Z" duration-ms="275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[728304.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rajesh rani]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rajesh123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="createUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa1.api.gorest.tests.CreateUserTest@7d9d0818]" started-at="2023-03-16T09:22:42Z" name="createUserTest" data-provider="getUserData" finished-at="2023-03-16T09:22:42Z" duration-ms="379" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[728302.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Revi love]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ravi123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="createUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa1.api.gorest.tests.CreateUserTest@7d9d0818]" started-at="2023-03-16T09:22:42Z" name="createUserTest" data-provider="getUserData" finished-at="2023-03-16T09:22:42Z" duration-ms="383" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[728303.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Indra sena]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[indra123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="createUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa1.api.gorest.tests.CreateUserTest@7d9d0818]" started-at="2023-03-16T09:22:42Z" name="createUserTest" data-provider="getUserData" finished-at="2023-03-16T09:22:43Z" duration-ms="352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[728309.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Taylor suppi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[taylor123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="createUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa1.api.gorest.tests.CreateUserTest@7d9d0818]" started-at="2023-03-16T09:22:43Z" name="createUserTest" data-provider="getUserData" finished-at="2023-03-16T09:22:43Z" duration-ms="563" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[728314.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anush naina]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[anush123@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+      </class> <!-- com.qa1.api.gorest.tests.CreateUserTest -->
+      <class name="com.qa1.api.gorest.tests.GetUserTest">
+        <test-method signature="getAllUserTest()[pri:0, instance:com.qa1.api.gorest.tests.GetUserTest@7c137fd5]" started-at="2023-03-16T09:22:37Z" name="getAllUserTest" finished-at="2023-03-16T09:22:38Z" duration-ms="1930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUserTest -->
+        <test-method signature="getCallQueryParamTest()[pri:0, instance:com.qa1.api.gorest.tests.GetUserTest@7c137fd5]" started-at="2023-03-16T09:22:39Z" name="getCallQueryParamTest" finished-at="2023-03-16T09:22:39Z" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCallQueryParamTest -->
+      </class> <!-- com.qa1.api.gorest.tests.GetUserTest -->
+      <class name="com.qa1.api.gorest.tests.postBookingAPITest">
+        <test-method signature="postAPITest()[pri:0, instance:com.qa1.api.gorest.tests.postBookingAPITest@183ec003]" started-at="2023-03-16T09:22:39Z" name="postAPITest" finished-at="2023-03-16T09:22:41Z" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAPITest -->
+      </class> <!-- com.qa1.api.gorest.tests.postBookingAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

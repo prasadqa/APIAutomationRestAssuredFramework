@@ -1,0 +1,6 @@
+com/qa1/api/gorest/tests/getImgurTestAPI.class
+com/qa1/api/gorest/tests/UpdateUserTest.class
+com/qa1/api/gorest/tests/postBookingAPITest.class
+com/qa1/api/gorest/tests/GetUserTest.class
+com/qa1/api/gorest/tests/CreateUserTest.class
+com/qa1/api/gorest/tests/DeleteUserTest.class
