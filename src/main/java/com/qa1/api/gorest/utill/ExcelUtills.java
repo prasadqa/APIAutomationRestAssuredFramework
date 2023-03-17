@@ -13,7 +13,7 @@ public class ExcelUtills {
 
 	public static Workbook book;
 	public static Sheet sheet;
-	public static String TEST_DATDA_SHEET_PATH = "/Users/challaprasad/Documents/Java-Selenium/RestAssuredAutomationAPI/src/main/java/com/qa1/api/gorest/testdata/CreateUserData.xlsx";
+	public static String TEST_DATDA_SHEET_PATH = "./src/main/java/com/qa1/api/gorest/testdata/CreateUserData.xlsx";
 	
 	public static Object[][] getTestData(String sheetName) {
 		
